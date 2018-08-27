@@ -1,3 +1,8 @@
+# tensorflow & keras model files
+*.h5
+*.hdf5
+*.ckpt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
