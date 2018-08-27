@@ -5,9 +5,7 @@ from keras.layers.convolutional import Conv2D, MaxPooling2D, ZeroPadding2D, UpSa
 from keras.layers.normalization import BatchNormalization
 from keras import backend as K
 
-import os
-file_path = os.path.dirname(os.path.abspath(__file__))
-VGG_Weights_path = file_path+"weights/vgg16_weights_th_dim_ordering_th_kernels.h5"
+VGG_Weights_path = "weights/vgg16_weights_th_dim_ordering_th_kernels.h5"
 
 
 def VGGSegnet(n_classes, input_height=224, input_width=224, vgg_level=3):
