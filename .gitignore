@@ -1,3 +1,6 @@
+# training/testing data
+data/
+
 # tensorflow & keras model files
 *.h5
 *.hdf5
