@@ -12,5 +12,8 @@ Allan Zelener - https://github.com/allanzelener/YAD2K
 ### VGGSegNet Tutorial
 Divam Gupta - https://github.com/divamgupta/image-segmentation-keras
 
+### FaceNet - Tutorial
+Martin Krasser - https://github.com/krasserm/face-recognition
+
 ### ROLO Implementation
 Guanghan Ning - https://github.com/Guanghan/ROLO

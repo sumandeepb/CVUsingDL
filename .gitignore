@@ -1,4 +1,5 @@
 # training/testing data
+*.dat
 data/
 
 # tensorflow & keras model files
